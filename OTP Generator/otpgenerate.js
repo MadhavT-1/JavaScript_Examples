@@ -10,4 +10,4 @@ const generate = () => {
 
 
 module.exports = generate;
-// export default generate;
+

@@ -1,9 +1,9 @@
 const otp = require('./OTP Generator/otpgenerate')
 const password = require('./PasswordGenerator/password')
-// import { generate } from './OTP Generator'
+
 
 console.log('====================================');
-console.log(otp());
+console.log("Generated OTP :" + otp());
 console.log('====================================');
 
 console.log('====================================');
