@@ -1,2 +1,3 @@
-# JavaScript_Examples
-In This Examples you can generate otp and password.
+## JavaScript_Examples
+
+In This Examples you can generate OTP and Password.
